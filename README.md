@@ -1,1 +1,2 @@
-# gavi-cicd-project
+# CI-CD
+This is Simple ci-cd project
